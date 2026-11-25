@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Studio Jonatan Camargo — Credenciado Les Mills</title>
+  <rect width="1000" height="1000" fill="#00B5E2" />
+  <g fill="#FFFFFF" font-family="'Montserrat', 'Space Grotesk', 'Arial Black', sans-serif">
+    <text x="128" y="388" font-size="52" font-weight="400" letter-spacing="5">STUDIO</text>
+    <g transform="skewX(-11)">
+      <text x="198" y="505" font-size="146" font-weight="900" letter-spacing="-3">JONATAN</text>
+      <text x="205" y="618" font-size="146" font-weight="900" letter-spacing="-3">CAMARGO</text>
+    </g>
+    <text x="868" y="676" text-anchor="end" font-size="40" font-weight="300" letter-spacing="0.5">Credenciado LesMills</text>
+  </g>
+</svg>
